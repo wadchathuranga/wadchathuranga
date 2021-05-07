@@ -1,11 +1,11 @@
-### Hello, I'm Dilshan Chathuranga 👋
+## Hello, I'm Dilshan Chathuranga 👋
 
-## I'm a Developer and Video Editor
+### I'm a Developer and Video Editor
 
 - 🌱 I’m currently studing at Sabaragamuwa University of Sri Lanka.
 - 🌱 I’m currently learning ReactJS and NodeJS
 
-<br/>
+
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=wadchathuranga.wadchathuranga)
 
