@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning at Sabaragamuwa University of Sri Lanka.
+
 <!--
 **wadchathuranga/wadchathuranga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
