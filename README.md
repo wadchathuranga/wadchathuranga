@@ -7,9 +7,9 @@
 
 <br/>
 
-**Find Me**
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=wadchathuranga.wadchathuranga)
+
+**Find Me**
 
 [![Linkedin: Dilshan Chathuranga](https://img.shields.io/badge/-wadchathuranga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dilshan-chathuranga-2a5a291a8/)](https://www.linkedin.com/in/dilshan-chathuranga-2a5a291a8/)
 [![GitHub wadchathuranga](https://img.shields.io/github/followers/wadchathuranga?label=follow&style=social)](https://github.com/wadchathuranga)
@@ -20,9 +20,4 @@
   <img src='https://github-readme-stats.vercel.app/api?username=wadchathuranga&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515'>
 </a>
 
-
-
-
-##### 📫 How to reach me:
-- Facebook: [Dilshan Weerasekara](https://www.facebook.com/dilshan.chathuranga.16)
 
