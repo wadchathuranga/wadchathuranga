@@ -4,8 +4,9 @@
 
 <img src='https://github-readme-stats.vercel.app/api?username=wadchathuranga&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515'>
 
-[Facebook: Dilshan Weerasekara](https://www.facebook.com/dilshan.chathuranga.16)
-[LinkedIn: Dilshan Chathuranga](https://www.linkedin.com/in/dilshan-chathuranga-2a5a291a8/)
+##### 📫 How to reach me:
+- [Facebook: Dilshan Weerasekara](https://www.facebook.com/dilshan.chathuranga.16)
+- [LinkedIn: Dilshan Chathuranga](https://www.linkedin.com/in/dilshan-chathuranga-2a5a291a8/)
 
 
 <!--
