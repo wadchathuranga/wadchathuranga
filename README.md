@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning ReactJS and NodeJS
 
 <br/>
-[![Linkedin: wadchathuranga](https://img.shields.io/badge/-wadchathuranga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wadchathuranga/)](https://www.linkedin.com/in/imthepk/)
+
 
 
 <a href="https://github.com/wadchathuranga">
