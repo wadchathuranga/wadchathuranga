@@ -11,6 +11,8 @@
 
 **Find Me**
 
+![Profile Views](https://komarev.com/ghpvc/?username=wadchathuranga&style=for-the-badge)
+
 [![Linkedin: Dilshan Chathuranga](https://img.shields.io/badge/-wadchathuranga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dilshan-chathuranga-2a5a291a8/)](https://www.linkedin.com/in/dilshan-chathuranga-2a5a291a8/)
 [![GitHub wadchathuranga](https://img.shields.io/github/followers/wadchathuranga?label=follow&style=social)](https://github.com/wadchathuranga)
 
