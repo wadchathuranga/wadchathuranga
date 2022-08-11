@@ -3,7 +3,7 @@
 #### I'm a Developer and Video Editor
 
 - 🌱 I’m currently studing at Sabaragamuwa University of Sri Lanka.
-- 🌱 I’m currently learning ReactJS and NodeJS
+- 🌱 I’m currently looking for a internship as a Software Engineer.
 
 
 <br />
