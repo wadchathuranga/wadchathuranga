@@ -2,8 +2,8 @@
 
 #### I'm a Developer and Video Editor
 
+- 🌱 I’m currently working as an Associate Software Engineer Intern at Bridge Tech Labs (Pvt.) Ltd.
 - 🌱 I’m currently studing at Sabaragamuwa University of Sri Lanka.
-- 🌱 I’m currently looking for a internship as a Software Engineer.
 
 
 <br />
