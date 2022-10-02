@@ -15,7 +15,7 @@
 
 [![Linkedin: Dilshan Chathuranga](https://img.shields.io/badge/-wadchathuranga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dilshan-chathuranga-2a5a291a8/)](https://www.linkedin.com/in/dilshan-chathuranga-2a5a291a8/)
 [![GitHub wadchathuranga](https://img.shields.io/github/followers/wadchathuranga?label=follow&style=social)](https://github.com/wadchathuranga)
-[![@wadchathuranga's Holopin board](https://holopin.io/api/user/board?user=wadchathuranga)](https://holopin.io/@wadchathuranga)
+
 <p>
   <img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white" />
   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -24,10 +24,7 @@
 </p>
 
 <br />
-<br />
 
-<br />
-<br />
 ## Familiar Tech Stacks
 
 **Languages**
@@ -91,6 +88,14 @@
   <img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?&style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
   <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?&style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
 </P>
+
+<br />
+
+## Acheived Digital Badges
+[![@wadchathuranga's Holopin board](https://holopin.io/api/user/board?user=wadchathuranga)](https://holopin.io/@wadchathuranga)
+
+
+
 
 
 <!--
