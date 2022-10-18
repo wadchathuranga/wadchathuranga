@@ -91,7 +91,7 @@
 
 <br />
 
-## Acheived Digital Badges
+## Acheived Hacktoberfest2022 Digital Badges
 [![@wadchathuranga's Holopin board](https://holopin.io/api/user/board?user=wadchathuranga)](https://holopin.io/@wadchathuranga)
 
 
