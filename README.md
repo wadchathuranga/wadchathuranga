@@ -2,8 +2,8 @@
 
 #### I'm a Developer and Video Editor
 
-- 🌱  Currently working as an Associate Software Engineer Intern at Bridge Tech Labs (Pvt.) Ltd.
-- 🌱  Still Final Year Undergraduate at Sabaragamuwa University of Sri Lanka.
+- 🌱  Currently working as an Associate Software Engineer at Bridge Tech Labs (Pvt.) Ltd.
+<!-- - 🌱  Still Final Year Undergraduate at Sabaragamuwa University of Sri Lanka. -->
 
 
 <br />
