@@ -1,7 +1,5 @@
 ## Hello, I'm Dilshan Chathuranga 👋
 
-#### I'm a Developer and Video Editor
-
 - 🌱  Currently working as an Associate Software Engineer at Hayleys Advantis.
 <!-- - 🌱  Still Final Year Undergraduate at Sabaragamuwa University of Sri Lanka. -->
 
